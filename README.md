@@ -2,7 +2,7 @@
 
 ## 下载安装依赖包
 ```
-npm install
+npm install  
 ```
 
 ### 以开发模式运行项目
