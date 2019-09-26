@@ -1,0 +1,12 @@
+/* @import 'normalize.css'; */
+
+.clearfix:after{
+	clear: both;
+	content: '';
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.clearfix{
+	*zoom: 1;
+}

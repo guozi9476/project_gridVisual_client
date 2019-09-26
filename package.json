@@ -1,5 +1,5 @@
 {
-  "name": "project_datatapping_client",
+  "name": "project_gridvisual_client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "animate.css": "^3.7.2",
+    "axios": "^0.19.0",
     "core-js": "^2.6.5",
+    "echarts": "^4.3.0",
+    "element-ui": "^2.12.0",
+    "normalize.css": "^8.0.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
